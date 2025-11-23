@@ -2,6 +2,8 @@
 
 **Le générateur de prompts ultime pour créer des SaaS avec l'IA**
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Princeddn/Promptforge&env=OPENAI_API_KEY&envDescription=Clé%20API%20OpenAI%20requise&envLink=https://platform.openai.com/api-keys&project-name=promptforge&repository-name=promptforge)
+
 PromptForge génère automatiquement des prompts ultra-optimisés pour Figma (design) et Claude (code). Tu décris ton idée de SaaS, l'IA génère 8 prompts détaillés que tu peux copier-coller directement.
 
 ## ✨ Pourquoi PromptForge ?
